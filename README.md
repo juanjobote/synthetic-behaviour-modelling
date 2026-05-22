@@ -34,7 +34,7 @@ The study focuses on behavioural dimensions associated with:
 synthetic-behaviour-modelling/
 
 ├── code/
-│   └── monte_carlo_v1.py
+│   └── Open_Science_Monte_Carlo_v1.py
 
 ├── data/
 │   └── dataset_input.xlsx
