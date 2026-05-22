@@ -53,3 +53,67 @@ synthetic-behaviour-modelling/
 │
 ├── README.md
 ├── requirements.txt
+
+## 🔁 Reproducibility
+
+All figures included in this repository are accompanied by the underlying data used to generate them.
+
+The repository contains the complete workflow required to reproduce the analyses, statistical comparisons, and outputs presented in the associated study.
+
+---
+
+## 📊 Associated Dataset
+
+The processed datasets and scientific outputs associated with this study are publicly available via Zenodo:
+
+👉 https://doi.org/10.5281/zenodo.20346492
+
+The Zenodo repository includes:
+
+- Cleaned dataset
+- Synthetic dataset
+- Statistical comparison dataset
+- Figure datasets
+- Dataset documentation
+
+⚙️ Requirements
+
+Install required libraries using:
+
+pip install -r requirements.txt
+
+Main dependencies:
+
+pandas
+numpy
+matplotlib
+💻 Code Description
+
+The main script:
+
+code/monte_carlo_v1.py
+
+performs:
+
+Data loading
+Variable transformation
+Likert-scale mapping
+Composite index generation
+Synthetic data generation
+Statistical comparison
+Figure and table export
+
+📖 Citation
+
+If you use this repository, please cite:
+
+Boté-Vericad, J.-J. (2026). Synthetic Behaviour Modelling. GitHub repository.
+
+👤 Author
+
+Juan-José Boté-Vericad
+UBICS – Universitat de Barcelona
+
+📜 License
+
+This repository is distributed under the MIT License.
