@@ -85,7 +85,7 @@ available as a separate Zenodo record:
 If you use this code, please cite:
 
 Boté-Vericad, J.-J. (2026). *Open Science Behaviour Modelling — Release
-V2.0* [Software]. Zenodo. https://doi.org/10.5281/zenodo.20346970
+V2.0* [Software]. Zenodo. https://doi.org/10.5281/zenodo.21325217
 
 ## Contact
 
